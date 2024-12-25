@@ -8,3 +8,10 @@
 Python
  Pandas
  Scikit-learn
+
+# Accuracy
+
+Test accuracy: 0.9514563106796117
+Precision: 0.90909
+Recall: 0.97561
+F1 Score: 0.94118
